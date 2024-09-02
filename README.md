@@ -1,0 +1,2 @@
+# Kotlin IMC CEP
+ 2 Sistemas simples em kolin, onde no "Cep" o usuário digita um cep em uma caixa na tela 1 e a resposta é apresentada na tela 2. E o "TransicaoTelas" é um aplicativo para calcular o IMC. A primeira tela permite a entrada do peso e da altura do usuário e clicar em "Calcular", a segunda tela exibe o IMC do usuário e uma mensagem informando se ele está abaixo do peso, com peso ideal, sobrepeso ou obesidade.
